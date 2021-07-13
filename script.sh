@@ -9,7 +9,7 @@ for i in {1..100}; do
     fi
     done 
 
-
+#Created a test function
     func(){
         echo "This is a test function..!!"
     }
